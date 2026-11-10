@@ -16,6 +16,7 @@
 |---|---|---|
 | **[Financial Intelligence & Valuation System](https://github.com/lohithaksh123/financial-valuation-system)** | Equity research for US and Indian companies: SEC EDGAR XBRL pipeline, data-quality scoring, Piotroski and Altman health scores, 10-year DCF, 10,000-run Monte Carlo, reverse DCF and peer comps. 109 tests with CI | Python · pandas · NumPy · SQLite · Streamlit · Plotly |
 | **[Profit Leak Intelligence](https://github.com/lohithaksh123/profit-leak-intelligence)** | Explains why a company's margin fell. SQL cleaning pipeline, Shapley margin bridge, statistical leak detection (88% recall on 30 unseen simulated companies), churn model (AUC 0.92) and break-even-priced recommendations | Python · SQL · SciPy · scikit-learn · Streamlit · Excel |
+| **[WorkforceHub](https://github.com/lohithaksh123/workforce-hub)** | Full-stack HR, attendance and finance platform built for a real company: role-based permissions, 14 HR document templates, payroll, wallets with approval workflows, real-time dashboards | TypeScript · Next.js 15 · Convex · NextAuth · Tailwind |
 | **[Gesture-Controlled 3D Particles](https://github.com/lohithaksh123/handmovement)** · [live](https://handmovement.vercel.app) | Control a 3D particle sculpture with your hands through a webcam, using real-time hand tracking | JavaScript · Three.js · MediaPipe · Vite |
 
 ### 🛠️ Tech stack
